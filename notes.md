@@ -4,3 +4,4 @@
 2014-04-23T05:01:00 - Refactor for clarity, might break a few tests though (cryptography)
 2014-05-01T06:46:00 - Refactor for clarity, might break a few tests though (cryptography)
 2014-05-01T21:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2014-05-01T08:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
