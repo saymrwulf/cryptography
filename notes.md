@@ -9,3 +9,4 @@
 2014-06-09T00:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2014-08-25T18:02:00 - Refactor for clarity, might break a few tests though (cryptography)
 2014-08-25T07:26:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2014-08-28T05:43:00 - Minor doc updates: linking to article on quantization (cryptography)
