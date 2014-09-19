@@ -11,3 +11,4 @@
 2014-08-25T07:26:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2014-08-28T05:43:00 - Minor doc updates: linking to article on quantization (cryptography)
 2014-08-28T05:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2014-09-20T01:45:00 - Quick fix, referencing a known issue from the official repo (cryptography)
