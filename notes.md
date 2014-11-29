@@ -13,3 +13,4 @@
 2014-08-28T05:33:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2014-09-20T01:45:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2014-11-29T21:23:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
+2014-11-29T07:10:00 - Minor doc updates: linking to article on quantization (cryptography)
