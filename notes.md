@@ -15,3 +15,4 @@
 2014-11-29T21:23:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2014-11-29T07:10:00 - Minor doc updates: linking to article on quantization (cryptography)
 2014-11-29T03:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
+2014-11-29T06:58:00 - Refactor for clarity, might break a few tests though (cryptography)
