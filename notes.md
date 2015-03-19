@@ -23,3 +23,4 @@
 2015-03-05T03:56:00 - Minor doc updates: linking to article on quantization (cryptography)
 2015-03-05T02:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2015-03-05T22:02:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2015-03-19T05:01:00 - Minor doc updates: linking to article on quantization (cryptography)
