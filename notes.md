@@ -30,3 +30,4 @@
 2015-10-13T05:49:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2015-12-26T20:34:00 - Refactor for clarity, might break a few tests though (cryptography)
 2015-12-26T06:35:00 - Refactor for clarity, might break a few tests though (cryptography)
+2015-12-26T04:14:00 - Implementing approach from a new paper read last night (cryptography)
