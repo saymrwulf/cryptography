@@ -28,3 +28,4 @@
 2015-03-19T19:48:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2015-03-19T07:40:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2015-10-13T05:49:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2015-12-26T20:34:00 - Refactor for clarity, might break a few tests though (cryptography)
