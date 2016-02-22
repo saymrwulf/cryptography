@@ -32,3 +32,4 @@
 2015-12-26T06:35:00 - Refactor for clarity, might break a few tests though (cryptography)
 2015-12-26T04:14:00 - Implementing approach from a new paper read last night (cryptography)
 2016-02-10T18:17:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2016-02-22T20:07:00 - Late-night bugfix on financial RL environment (cryptography)
