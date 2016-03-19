@@ -34,3 +34,4 @@
 2016-02-10T18:17:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2016-02-22T20:07:00 - Late-night bugfix on financial RL environment (cryptography)
 2016-02-22T05:21:00 - Implementing approach from a new paper read last night (cryptography)
+2016-03-19T21:08:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
