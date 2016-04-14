@@ -40,3 +40,4 @@
 2016-03-30T03:52:00 - Late-night bugfix on financial RL environment (cryptography)
 2016-03-30T06:15:00 - Refactor for clarity, might break a few tests though (cryptography)
 2016-04-14T17:36:00 - Late-night bugfix on financial RL environment (cryptography)
+2016-04-14T03:05:00 - Implementing approach from a new paper read last night (cryptography)
