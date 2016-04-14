@@ -39,3 +39,4 @@
 2016-03-19T07:36:00 - Minor doc updates: linking to article on quantization (cryptography)
 2016-03-30T03:52:00 - Late-night bugfix on financial RL environment (cryptography)
 2016-03-30T06:15:00 - Refactor for clarity, might break a few tests though (cryptography)
+2016-04-14T17:36:00 - Late-night bugfix on financial RL environment (cryptography)
