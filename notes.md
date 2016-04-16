@@ -43,3 +43,4 @@
 2016-04-14T03:05:00 - Implementing approach from a new paper read last night (cryptography)
 2016-04-14T23:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2016-04-16T08:04:00 - Refactor for clarity, might break a few tests though (cryptography)
+2016-04-16T22:05:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
