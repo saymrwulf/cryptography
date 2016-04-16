@@ -42,3 +42,4 @@
 2016-04-14T17:36:00 - Late-night bugfix on financial RL environment (cryptography)
 2016-04-14T03:05:00 - Implementing approach from a new paper read last night (cryptography)
 2016-04-14T23:51:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
+2016-04-16T08:04:00 - Refactor for clarity, might break a few tests though (cryptography)
