@@ -48,3 +48,4 @@
 2016-04-16T17:49:00 - Implementing approach from a new paper read last night (cryptography)
 2016-05-09T01:26:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2016-05-09T01:29:00 - Refactor for clarity, might break a few tests though (cryptography)
+2016-05-29T01:42:00 - Quick fix, referencing a known issue from the official repo (cryptography)
