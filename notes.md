@@ -50,3 +50,4 @@
 2016-05-09T01:29:00 - Refactor for clarity, might break a few tests though (cryptography)
 2016-05-29T01:42:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2016-05-29T06:28:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2016-05-29T08:47:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
