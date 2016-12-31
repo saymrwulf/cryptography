@@ -61,3 +61,4 @@
 2016-09-24T07:36:00 - Minor doc updates: linking to article on quantization (cryptography)
 2016-09-24T00:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2016-09-24T20:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2016-12-31T06:13:00 - Refactor for clarity, might break a few tests though (cryptography)
