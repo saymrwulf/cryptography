@@ -64,3 +64,4 @@
 2016-12-31T06:13:00 - Refactor for clarity, might break a few tests though (cryptography)
 2017-04-09T02:27:00 - Late-night bugfix on financial RL environment (cryptography)
 2017-04-09T01:14:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2017-06-03T19:14:00 - Late-night bugfix on financial RL environment (cryptography)
