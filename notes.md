@@ -68,3 +68,4 @@
 2017-06-03T04:34:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2017-07-26T19:58:00 - Minor doc updates: linking to article on quantization (cryptography)
 2017-07-26T19:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2017-07-26T03:54:00 - Minor doc updates: linking to article on quantization (cryptography)
