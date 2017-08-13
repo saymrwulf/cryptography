@@ -69,3 +69,4 @@
 2017-07-26T19:58:00 - Minor doc updates: linking to article on quantization (cryptography)
 2017-07-26T19:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2017-07-26T03:54:00 - Minor doc updates: linking to article on quantization (cryptography)
+2017-08-14T01:18:00 - Refactor for clarity, might break a few tests though (cryptography)
