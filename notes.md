@@ -71,3 +71,4 @@
 2017-07-26T03:54:00 - Minor doc updates: linking to article on quantization (cryptography)
 2017-08-14T01:18:00 - Refactor for clarity, might break a few tests though (cryptography)
 2017-08-14T06:44:00 - Minor doc updates: linking to article on quantization (cryptography)
+2017-08-14T23:27:00 - Implementing approach from a new paper read last night (cryptography)
