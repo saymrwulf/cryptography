@@ -72,3 +72,4 @@
 2017-08-14T01:18:00 - Refactor for clarity, might break a few tests though (cryptography)
 2017-08-14T06:44:00 - Minor doc updates: linking to article on quantization (cryptography)
 2017-08-14T23:27:00 - Implementing approach from a new paper read last night (cryptography)
+2017-08-19T18:54:00 - Quick fix, referencing a known issue from the official repo (cryptography)
