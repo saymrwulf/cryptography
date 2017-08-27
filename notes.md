@@ -75,3 +75,4 @@
 2017-08-19T18:54:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2017-08-19T21:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2017-08-19T04:55:00 - Minor doc updates: linking to article on quantization (cryptography)
+2017-08-27T06:13:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
