@@ -89,3 +89,4 @@
 2018-01-07T17:56:00 - Minor doc updates: linking to article on quantization (cryptography)
 2018-01-07T03:05:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2018-01-07T18:07:00 - Minor doc updates: linking to article on quantization (cryptography)
+2018-01-07T20:19:00 - Refactor for clarity, might break a few tests though (cryptography)
