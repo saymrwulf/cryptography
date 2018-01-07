@@ -86,3 +86,4 @@
 2017-12-28T23:29:00 - Implementing approach from a new paper read last night (cryptography)
 2017-12-28T03:09:00 - Minor doc updates: linking to article on quantization (cryptography)
 2017-12-28T07:46:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2018-01-07T17:56:00 - Minor doc updates: linking to article on quantization (cryptography)
