@@ -98,3 +98,4 @@
 2018-03-20T04:38:00 - Implementing approach from a new paper read last night (cryptography)
 2018-05-23T04:41:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2018-05-23T02:29:00 - Implementing approach from a new paper read last night (cryptography)
+2018-05-23T07:07:00 - Refactor for clarity, might break a few tests though (cryptography)
