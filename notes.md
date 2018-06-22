@@ -100,3 +100,4 @@
 2018-05-23T02:29:00 - Implementing approach from a new paper read last night (cryptography)
 2018-05-23T07:07:00 - Refactor for clarity, might break a few tests though (cryptography)
 2018-05-23T17:50:00 - Minor doc updates: linking to article on quantization (cryptography)
+2018-06-22T22:15:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
