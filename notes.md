@@ -104,3 +104,4 @@
 2018-06-22T00:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2018-07-09T08:05:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2018-07-13T01:45:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
+2018-07-13T20:56:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
