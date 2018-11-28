@@ -108,3 +108,4 @@
 2018-07-27T22:37:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2018-07-27T22:52:00 - Refactor for clarity, might break a few tests though (cryptography)
 2018-07-27T08:28:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2018-11-28T20:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
