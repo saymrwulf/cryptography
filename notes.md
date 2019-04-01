@@ -110,3 +110,4 @@
 2018-07-27T08:28:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2018-11-28T20:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2019-04-01T23:15:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2019-04-01T20:49:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
