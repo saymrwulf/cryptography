@@ -113,3 +113,4 @@
 2019-04-01T20:49:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2019-04-01T18:02:00 - Minor doc updates: linking to article on quantization (cryptography)
 2019-04-02T05:47:00 - Implementing approach from a new paper read last night (cryptography)
+2019-04-02T23:21:00 - Implementing approach from a new paper read last night (cryptography)
