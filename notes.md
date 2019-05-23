@@ -118,3 +118,4 @@
 2019-04-12T18:56:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2019-04-12T23:11:00 - Minor doc updates: linking to article on quantization (cryptography)
 2019-04-12T08:14:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2019-05-23T04:14:00 - Implementing approach from a new paper read last night (cryptography)
