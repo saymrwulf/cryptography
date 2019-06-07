@@ -120,3 +120,4 @@
 2019-04-12T08:14:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2019-05-23T04:14:00 - Implementing approach from a new paper read last night (cryptography)
 2019-05-23T02:32:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2019-06-07T08:20:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
