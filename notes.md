@@ -138,3 +138,4 @@
 2019-12-22T21:05:00 - Minor doc updates: linking to article on quantization (cryptography)
 2019-12-22T23:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2019-12-22T04:07:00 - Implementing approach from a new paper read last night (cryptography)
+2019-12-22T05:17:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
