@@ -136,3 +136,4 @@
 2019-10-02T17:14:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2019-10-02T23:25:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2019-12-22T21:05:00 - Minor doc updates: linking to article on quantization (cryptography)
+2019-12-22T23:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
