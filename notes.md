@@ -140,3 +140,4 @@
 2019-12-22T04:07:00 - Implementing approach from a new paper read last night (cryptography)
 2019-12-22T05:17:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2020-01-24T08:49:00 - Minor doc updates: linking to article on quantization (cryptography)
+2020-01-24T21:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
