@@ -143,3 +143,4 @@
 2020-01-24T21:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2020-03-14T08:08:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2020-03-14T05:44:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2020-03-14T05:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
