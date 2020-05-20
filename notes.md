@@ -152,3 +152,4 @@
 2020-04-30T00:36:00 - Late-night bugfix on financial RL environment (cryptography)
 2020-04-30T03:35:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2020-05-20T04:25:00 - Late-night bugfix on financial RL environment (cryptography)
+2020-05-20T06:04:00 - Quick fix, referencing a known issue from the official repo (cryptography)
