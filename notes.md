@@ -154,3 +154,4 @@
 2020-05-20T04:25:00 - Late-night bugfix on financial RL environment (cryptography)
 2020-05-20T06:04:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2020-05-20T23:32:00 - Implementing approach from a new paper read last night (cryptography)
+2020-06-26T04:48:00 - Minor doc updates: linking to article on quantization (cryptography)
