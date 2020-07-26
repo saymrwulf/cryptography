@@ -156,3 +156,4 @@
 2020-05-20T23:32:00 - Implementing approach from a new paper read last night (cryptography)
 2020-06-26T04:48:00 - Minor doc updates: linking to article on quantization (cryptography)
 2020-07-26T00:24:00 - Minor doc updates: linking to article on quantization (cryptography)
+2020-07-26T05:28:00 - Refactor for clarity, might break a few tests though (cryptography)
