@@ -166,3 +166,4 @@
 2020-11-05T08:57:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2020-12-09T18:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2020-12-09T08:43:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2020-12-09T22:10:00 - Quick fix, referencing a known issue from the official repo (cryptography)
