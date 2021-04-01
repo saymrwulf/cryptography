@@ -169,3 +169,4 @@
 2020-12-09T22:10:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2021-04-01T00:10:00 - Refactor for clarity, might break a few tests though (cryptography)
 2021-04-01T06:23:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
+2021-04-01T08:51:00 - Minor doc updates: linking to article on quantization (cryptography)
