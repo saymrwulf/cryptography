@@ -171,3 +171,4 @@
 2021-04-01T06:23:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2021-04-01T08:51:00 - Minor doc updates: linking to article on quantization (cryptography)
 2021-04-01T18:18:00 - Late-night bugfix on financial RL environment (cryptography)
+2021-04-26T03:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
