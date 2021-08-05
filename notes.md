@@ -182,3 +182,4 @@
 2021-05-31T08:38:00 - Implementing approach from a new paper read last night (cryptography)
 2021-08-05T05:14:00 - Late-night bugfix on financial RL environment (cryptography)
 2021-08-05T19:32:00 - Minor doc updates: linking to article on quantization (cryptography)
+2021-08-05T17:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
