@@ -181,3 +181,4 @@
 2021-05-20T17:49:00 - Late-night bugfix on financial RL environment (cryptography)
 2021-05-31T08:38:00 - Implementing approach from a new paper read last night (cryptography)
 2021-08-05T05:14:00 - Late-night bugfix on financial RL environment (cryptography)
+2021-08-05T19:32:00 - Minor doc updates: linking to article on quantization (cryptography)
