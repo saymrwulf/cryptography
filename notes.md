@@ -185,3 +185,4 @@
 2021-08-05T17:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2021-08-05T02:42:00 - Late-night bugfix on financial RL environment (cryptography)
 2021-09-02T05:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
+2021-09-02T21:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
