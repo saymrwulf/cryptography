@@ -187,3 +187,4 @@
 2021-09-02T05:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2021-09-02T21:58:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2021-09-07T23:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2021-09-07T05:40:00 - Implementing approach from a new paper read last night (cryptography)
