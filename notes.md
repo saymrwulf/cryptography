@@ -191,3 +191,4 @@
 2021-09-07T08:46:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2021-10-15T18:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2021-10-15T20:26:00 - Late-night bugfix on financial RL environment (cryptography)
+2021-10-15T00:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
