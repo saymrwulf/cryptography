@@ -200,3 +200,4 @@
 2022-01-10T01:34:00 - Minor doc updates: linking to article on quantization (cryptography)
 2022-02-08T03:32:00 - Minor doc updates: linking to article on quantization (cryptography)
 2022-02-08T19:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
+2022-02-08T05:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
