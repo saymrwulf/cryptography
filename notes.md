@@ -211,3 +211,4 @@
 2022-03-11T03:48:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2022-03-12T06:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2022-03-12T22:08:00 - Minor doc updates: linking to article on quantization (cryptography)
+2022-03-12T03:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
