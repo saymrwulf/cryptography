@@ -210,3 +210,4 @@
 2022-03-11T02:01:00 - Implementing approach from a new paper read last night (cryptography)
 2022-03-11T03:48:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2022-03-12T06:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2022-03-12T22:08:00 - Minor doc updates: linking to article on quantization (cryptography)
