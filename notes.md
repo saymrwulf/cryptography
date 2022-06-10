@@ -219,3 +219,4 @@
 2022-05-22T17:59:00 - Minor doc updates: linking to article on quantization (cryptography)
 2022-06-09T01:38:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2022-06-11T03:27:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
+2022-06-11T00:43:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
