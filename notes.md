@@ -226,3 +226,4 @@
 2022-06-12T17:57:00 - Late-night bugfix on financial RL environment (cryptography)
 2022-06-12T04:26:00 - Late-night bugfix on financial RL environment (cryptography)
 2022-07-01T05:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2022-07-01T07:35:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
