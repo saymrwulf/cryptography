@@ -239,3 +239,4 @@
 2022-11-13T20:13:00 - Minor doc updates: linking to article on quantization (cryptography)
 2022-11-13T21:33:00 - Late-night bugfix on financial RL environment (cryptography)
 2023-01-08T08:57:00 - Late-night bugfix on financial RL environment (cryptography)
+2023-01-17T17:16:00 - Implementing approach from a new paper read last night (cryptography)
