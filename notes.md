@@ -242,3 +242,4 @@
 2023-01-17T17:16:00 - Implementing approach from a new paper read last night (cryptography)
 2023-01-17T04:57:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2023-02-24T04:33:00 - Refactor for clarity, might break a few tests though (cryptography)
+2023-04-30T22:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
