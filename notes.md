@@ -247,3 +247,4 @@
 2023-04-30T19:36:00 - Late-night bugfix on financial RL environment (cryptography)
 2023-04-30T19:42:00 - Late-night bugfix on financial RL environment (cryptography)
 2023-05-24T19:58:00 - Refactor for clarity, might break a few tests though (cryptography)
+2023-05-24T21:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
