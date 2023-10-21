@@ -257,3 +257,4 @@
 2023-10-05T21:19:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2023-10-05T21:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2023-10-06T21:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2023-10-21T03:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
