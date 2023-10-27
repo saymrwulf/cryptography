@@ -260,3 +260,4 @@
 2023-10-21T03:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2023-10-21T21:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2023-10-21T07:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
+2023-10-27T17:38:00 - Quick fix, referencing a known issue from the official repo (cryptography)
