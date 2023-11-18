@@ -264,3 +264,4 @@
 2023-11-18T01:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2023-11-18T08:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2023-11-18T20:31:00 - Refactor for clarity, might break a few tests though (cryptography)
+2023-11-18T21:53:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
