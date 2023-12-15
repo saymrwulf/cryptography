@@ -267,3 +267,4 @@
 2023-11-18T21:53:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2023-12-15T07:04:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2023-12-15T18:31:00 - Implementing approach from a new paper read last night (cryptography)
+2023-12-15T01:32:00 - Implementing approach from a new paper read last night (cryptography)
