@@ -271,3 +271,4 @@
 2023-12-15T18:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
 2024-01-03T23:38:00 - Quick fix, referencing a known issue from the official repo (cryptography)
 2024-01-03T18:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
+2024-01-03T20:22:00 - Minor doc updates: linking to article on quantization (cryptography)
