@@ -275,3 +275,4 @@
 2024-02-02T21:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2024-02-02T02:39:00 - Refactor for clarity, might break a few tests though (cryptography)
 2024-02-02T04:25:00 - Minor doc updates: linking to article on quantization (cryptography)
+2024-02-02T22:31:00 - Implementing approach from a new paper read last night (cryptography)
