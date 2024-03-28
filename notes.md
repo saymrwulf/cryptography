@@ -282,3 +282,4 @@
 2024-03-09T07:31:00 - Implementing approach from a new paper read last night (cryptography)
 2024-03-09T18:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (cryptography)
 2024-03-09T21:20:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
+2024-03-28T02:38:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
