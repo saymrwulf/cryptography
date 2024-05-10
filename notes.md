@@ -292,3 +292,4 @@
 2024-04-23T02:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (cryptography)
 2024-05-10T20:08:00 - Implementing approach from a new paper read last night (cryptography)
 2024-05-10T22:55:00 - Quick fix, referencing a known issue from the official repo (cryptography)
+2024-05-10T08:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (cryptography)
